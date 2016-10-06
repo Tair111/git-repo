@@ -1,5 +1,3 @@
 print('Hello word');
 print('Hello evrybody');
 print('Hello');
-print('Hou do you do?');
-print('Hi');
